@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created by TheUnknownFNF-->
+<TextureAtlas imagePath="margo">
+  <SubTexture name="margo relax0012" x="0" y="0" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0008" x="0" y="691" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0014" x="0" y="1382" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0013" x="0" y="2073" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0009" x="438" y="0" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0011" x="438" y="691" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0010" x="438" y="1382" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0000" x="438" y="2073" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0003" x="876" y="0" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0004" x="876" y="690" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0005" x="876" y="1380" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0003" x="880" y="2070" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0004" x="1318" y="0" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0006" x="1318" y="690" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0001" x="1318" y="1380" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0007" x="1322" y="2070" width="437" height="690" frameX="-126" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0002" x="1759" y="2070" width="440" height="689" frameX="-123" frameY="-118" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0004" x="2199" y="0" width="434" height="689" frameX="-129" frameY="-118" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0005" x="1760" y="0" width="434" height="689" frameX="-129" frameY="-118" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0006" x="2633" y="0" width="435" height="689" frameX="-128" frameY="-118" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0002" x="1760" y="689" width="446" height="688" frameX="-117" frameY="-119" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0002" x="1760" y="1377" width="438" height="688" frameX="-125" frameY="-119" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0001" x="2198" y="1377" width="447" height="684" frameX="-116" frameY="-123" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0001" x="2206" y="689" width="428" height="683" frameX="-135" frameY="-124" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0003" x="2634" y="689" width="436" height="683" frameX="-127" frameY="-124" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0000" x="2645" y="1372" width="424" height="681" frameX="-139" frameY="-126" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0000" x="2645" y="2053" width="450" height="679" frameX="-113" frameY="-128" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo up0001" x="3069" y="1372" width="290" height="644" frameX="-110" frameY="-100" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo up0000" x="3068" y="0" width="289" height="644" frameX="-108" frameY="-100" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo up0002" x="3095" y="2016" width="287" height="642" frameX="-114" frameY="-101" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo left0003" x="0" y="2764" width="333" height="598" frameX="-54" frameY="-147" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo left0002" x="333" y="2764" width="333" height="598" frameX="-54" frameY="-147" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo left0001" x="666" y="2763" width="337" height="596" frameX="-51" frameY="-149" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo left0000" x="3095" y="2658" width="340" height="591" frameX="-49" frameY="-154" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo right0002" x="1003" y="2760" width="380" height="568" frameX="-139" frameY="-175" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo right0001" x="1383" y="2760" width="383" height="565" frameX="-138" frameY="-177" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo right0000" x="1766" y="2759" width="389" height="562" frameX="-136" frameY="-180" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo down0002" x="3070" y="644" width="349" height="466" frameX="-92" frameY="-283" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo down0003" x="2199" y="2061" width="349" height="466" frameX="-92" frameY="-283" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo down0001" x="2199" y="2527" width="347" height="464" frameX="-91" frameY="-285" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo down0000" x="2546" y="2732" width="347" height="462" frameX="-89" frameY="-287" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance left0005" x="880" y="2070" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0006" x="876" y="1380" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo dance right0007" x="876" y="1380" width="442" height="690" frameX="-121" frameY="-117" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo relax0015" x="0" y="1382" width="438" height="691" frameX="-125" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo right0003" x="1003" y="2760" width="380" height="568" frameX="-139" frameY="-175" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="margo up0003" x="3095" y="2016" width="287" height="642" frameX="-114" frameY="-101" frameWidth="563" frameHeight="844"/>
+</TextureAtlas>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created by TheUnknownFNF-->
+<TextureAtlas imagePath="ula.png">
+  <SubTexture name="ula down0000" x="0" y="0" width="448" height="563" frameX="-41" frameY="-181" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula down0001" x="448" y="0" width="435" height="584" frameX="-46" frameY="-160" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula down0002" x="883" y="0" width="425" height="586" frameX="-47" frameY="-158" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula down0003" x="1308" y="0" width="425" height="586" frameX="-47" frameY="-158" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula right0002" x="1733" y="0" width="448" height="593" frameX="-100" frameY="-147" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0004" x="2181" y="0" width="448" height="594" frameX="-100" frameY="-147" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula right0001" x="2629" y="0" width="448" height="595" frameX="-97" frameY="-145" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula right0000" x="3077" y="0" width="444" height="604" frameX="-86" frameY="-136" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0003" x="0" y="563" width="437" height="604" frameX="-97" frameY="-136" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0002" x="437" y="584" width="444" height="619" frameX="-86" frameY="-121" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0000" x="881" y="586" width="432" height="625" frameX="-46" frameY="-116" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0000" x="1313" y="593" width="443" height="627" frameX="-40" frameY="-114" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0001" x="1756" y="594" width="432" height="628" frameX="-46" frameY="-113" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0002" x="2188" y="594" width="434" height="633" frameX="-42" frameY="-108" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0001" x="2622" y="595" width="435" height="634" frameX="-45" frameY="-107" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0001" x="3057" y="604" width="430" height="638" frameX="-41" frameY="-103" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0003" x="0" y="1167" width="430" height="638" frameX="-41" frameY="-103" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0004" x="430" y="1203" width="425" height="639" frameX="-45" frameY="-102" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0005" x="855" y="1211" width="422" height="639" frameX="-48" frameY="-102" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0006" x="1277" y="1220" width="422" height="639" frameX="-48" frameY="-102" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0000" x="1699" y="1222" width="422" height="639" frameX="-48" frameY="-102" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula left0002" x="2121" y="1229" width="536" height="642" frameX="-23" frameY="-104" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula left0003" x="2657" y="1242" width="536" height="642" frameX="-23" frameY="-104" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0003" x="3193" y="1242" width="422" height="669" frameX="-48" frameY="-72" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0007" x="0" y="1805" width="422" height="669" frameX="-48" frameY="-72" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula left0001" x="422" y="1850" width="538" height="643" frameX="-22" frameY="-103" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula left0000" x="960" y="1859" width="541" height="646" frameX="-20" frameY="-100" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0002" x="1501" y="1861" width="424" height="671" frameX="-46" frameY="-70" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0004" x="1925" y="1871" width="422" height="671" frameX="-48" frameY="-70" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0008" x="2347" y="1884" width="422" height="671" frameX="-48" frameY="-70" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0005" x="2769" y="1911" width="428" height="691" frameX="-62" frameY="-55" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0006" x="3197" y="1911" width="448" height="691" frameX="-54" frameY="-55" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula up0000" x="0" y="2493" width="436" height="691" frameX="-55" frameY="-55" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula up0001" x="436" y="2493" width="440" height="691" frameX="-54" frameY="-55" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0007" x="876" y="2505" width="441" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0008" x="1317" y="2532" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0009" x="1756" y="2542" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0010" x="2195" y="2555" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula shutup0011" x="2634" y="2602" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula up0002" x="3073" y="2602" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0005" x="3193" y="1242" width="422" height="669" frameX="-48" frameY="-72" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula angery0006" x="1925" y="1871" width="422" height="671" frameX="-48" frameY="-70" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula idle0007" x="1277" y="1220" width="422" height="639" frameX="-48" frameY="-102" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula right0003" x="1733" y="0" width="448" height="593" frameX="-100" frameY="-147" frameWidth="563" frameHeight="844"/>
+  <SubTexture name="ula up0003" x="3073" y="2602" width="439" height="692" frameX="-55" frameY="-54" frameWidth="563" frameHeight="844"/>
+</TextureAtlas>
